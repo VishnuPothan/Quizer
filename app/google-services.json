@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542219229236",
+    "firebase_url": "https://realquizer-4a071.firebaseio.com",
+    "project_id": "realquizer-4a071",
+    "storage_bucket": "realquizer-4a071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542219229236:android:3c2df31e95b100d40c1261",
+        "android_client_info": {
+          "package_name": "com.vishnu.quizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542219229236-78hu4gaj6l1gvu7i5l5iarqt00r22toc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-AYnSkLQSnq1WDQkCPx1v9flrJippY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542219229236-78hu4gaj6l1gvu7i5l5iarqt00r22toc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
